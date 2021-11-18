@@ -62,9 +62,9 @@ Citi Bike Data of New York City of 2019 was used for this analysis. Our visualiz
 - Average ride time is less than 50 min
 
 ## Additional Visualization
-One of the crucial aspects to consider when planning to open bike sharing business is maintenance. Foe this project we came up with additional visualization to determine what times will be best to complete bike maintenance. Here are our findings:
+One of the crucial aspects to consider when planning to open bike sharing business is maintenance. For this project we came up with additional visualization to determine what times will be the best to complete bike maintenance. Here are our findings:
 
-- As we determined earlier in out heatmaps, and bar charts best time will be Sundays thru Wednesday from 12 to 5 am. 
+- As we determined earlier in out heatmaps, and bar charts best time will be Sundays thru Wednesday from 12 to 5 am. We provided with wide range of visualisation bars for each day of the month, weekday and hour of the day to present best times for maintnance work. 
 
 ![Bars.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Bars.png)
 
