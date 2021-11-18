@@ -6,7 +6,7 @@
 In this project we analyzed Citi Bike data from 2019 of New York Citi. The purpose of this analysis is to present visualized analysis that we made using Tableau for potential investors to launch bike share business in city of Des Moines.
 
 ## *Links and Resources*
-- Tableau Public Citi Bike Story Page 
+- Tableau Public Citi Bike Story Page      
  https://public.tableau.com/app/profile/zarina.kossakova/viz/Citi_Bike__Story/CitiBikeStory
 
 - Datasource used for this project    
