@@ -2,15 +2,21 @@
 
 ![shutterstock_226431898.](https://github.com/kossakova/Bikesharing/blob/main/IMG/shutterstock_226431898.jpg)
 
+## Overview of the statistical analysis
 In this project we analyzed Citi Bike data from 2019 of New York Citi. The purpose of this analysis is to present visualized analysis that we made using Tableau for potential investors to launch bike share business in city of Des Moines.
 
 *Resources*
-* -Tableau Public 2021.3*
-* -Python 3.7.10*
-* - Pandas Library*
+- Tableau Public 2021.3
+- Python 3.7.10
+- Pandas Library
+
+## Results
 
 Since mechanics of making business work is quite different in a small city than in New York City, we first made visualized New York City to understand how bike- sharing business works, then we apply our knowledge and presented visualization to potential investors. 
 Here is out story in Tableau that consist of 4 dashboards and 10 worksheets. 
+
+Following [link](https://public.tableau.com/app/profile/zarina.kossakova/viz/Citi_Bike__Story/CitiBikeStory) will take you to Tableau Public Citi Bike Story page 
+
 Overview of the analysis
 We picked the month of August for a good reason; August is one of the busiest times of the year of bike- sharing business. Our firs page of story answers 3 main questions. First, there were total records of 2,344,224 million rides in a month of August. 65 % of riders were male, 25% female and 10% unknown. Lastly, we determined that 80% of riders were subscribed customers. 
 
@@ -35,5 +41,6 @@ Following line charts shows us number of bikes used in 60 minutes.  As we can se
 
 ![LineCharts.](https://github.com/kossakova/Bikesharing/blob/main/IMG/LineCharts.png)
 
+## Summary:
 
 ![Bars.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Bars.png)
