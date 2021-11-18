@@ -70,4 +70,4 @@ One of the crucial aspects to consider when planning to open bike sharing busine
 
 Another additional visualization is our area graph. It helps determine what age range to focus on when promoting bike sharing business, as we can see in our graph there are almost 240k people that were born in 1968 that like to ride bikes, additionally, majority of users are 1980 thru 1998 year of birth. 
 
-![Bars.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Bars.png)
+![Riders%20by%20Birth%20Year.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Riders%20by%20Birth%20Year.png)
