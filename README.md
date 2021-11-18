@@ -23,14 +23,17 @@ This page of our story will help us see average trips count.  Three bar charts r
 Slowest times are between 12 am – 5 am, Wednesdays and Sundays.
 The busiest 7 am, between 4- 7 pm on Thursdays thru Saturdays. 
 
-![Overview.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Overview.png)
+![Bars.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Bars.png)
 
 Trip Heatmaps
 Heatmaps page of story as equivalent to peak overview but this one also has a breakdown of gender rides.  Just like the previous story page it shows us similar peak hours and days, additionally, male rides are significantly higher than females due to gender ratio
 
-![Overview.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Overview.png)
+![Heatmaps.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Heatmaps.png)
 
 Checkout Times
 Following line charts shows us number of bikes used in 60 minutes.  As we can see most of the bike’s rides did not exceed 50 minutes, the significant amount returned in first 30 min, that gives us a good idea of average ride time. Also, we provide similar line chart with additional gender breakdown. 
 
-![Overview.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Overview.png)
+![LineCharts.](https://github.com/kossakova/Bikesharing/blob/main/IMG/LineCharts.png)
+
+
+![Bars.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Bars.png)
