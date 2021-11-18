@@ -55,8 +55,8 @@ Citi Bike Data of New York City of 2019 was used for this analysis. Our visualiz
 - Total rides count of a month if August is 2,344,224 
 - Majority of users are subscribers
 - Majority of users are male 
-- Busiest days of the week are Thursdays thru Saturday
-- Slowest days of the week are Wednesday and Sunday
+- Busiest days of the week are Thursdays thru Saturdays
+- Slowest days of the week are Wednesdays and Sundays
 - Peak hours of the day 7 am, 4-7 pm
 - Slowest hours of the day 12-5 am
 - Average ride time is less than 50 min
