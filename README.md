@@ -50,4 +50,24 @@ Following line charts shows us number of bikes used in 60 minutes.  As we can se
 
 ## Summary:
 
+Citi Bike Data of New York City of 2019 was used for this analysis. Our visualization helped us determine following patterns:
+
+- Total rides count of a month if August is 2,344,224 
+- Majority of users are subscribers
+- Majority of users are male 
+- Busiest days of the week are Thursdays thru Saturday
+- Slowest days of the week are Wednesday and Sunday
+- Peak hours of the day 7 am, 4-7 pm
+- Slowest hours of the day 12-5 am
+- Average ride time is less than 50 min
+
+## Additional Visualization
+One of the crucial aspects to consider when planning to open bike sharing business is maintenance. Foe this project we came up with additional visualization to determine what times will be best to complete bike maintenance. Here are our findings:
+
+- As we determined earlier in out heatmaps, and bar charts best time will be Sundays thru Wednesday from 12 to 5 am. 
+
+![Bars.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Bars.png)
+
+Another additional visualization is our area graph. It helps determine what age range to focus on when promoting bike sharing business, as we can see in our graph there are almost 240k people that were born in 1968 that like to ride bikes, additionally, majority of users are 1980 thru 1998 year of birth. 
+
 ![Bars.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Bars.png)
