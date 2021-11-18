@@ -1,11 +1,17 @@
 # Bike Sharing Visualization
 
-![shutterstock_226431898.](https://github.com/kossakova/Bikesharing/blob/main/IMG/shutterstock_226431898.jpg)
+![bike_share2_0_website.](https://github.com/kossakova/Bikesharing/blob/main/IMG/bike_share2_0_website.png)
 
 ## Overview of the statistical analysis
 In this project we analyzed Citi Bike data from 2019 of New York Citi. The purpose of this analysis is to present visualized analysis that we made using Tableau for potential investors to launch bike share business in city of Des Moines.
 
-*Resources*
+## *Links and Resources*
+- Tableau Public Citi Bike Story Page 
+ https://public.tableau.com/app/profile/zarina.kossakova/viz/Citi_Bike__Story/CitiBikeStory
+
+- Datasource used for this project 
+ https://s3.amazonaws.com/tripdata/index.html
+
 - Tableau Public 2021.3
 - Python 3.7.10
 - Pandas Library
@@ -15,10 +21,8 @@ In this project we analyzed Citi Bike data from 2019 of New York Citi. The purpo
 Since mechanics of making business work is quite different in a small city than in New York City, we first made visualized New York City to understand how bike- sharing business works, then we apply our knowledge and presented visualization to potential investors. 
 Here is out story in Tableau that consist of **4** dashboards and **10** worksheets. 
 
-Following [link](https://public.tableau.com/app/profile/zarina.kossakova/viz/Citi_Bike__Story/CitiBikeStory) will take you to Tableau Public Citi Bike Story page 
-
 ### Overview of the analysis
-We picked the month of August for a good reason; August is one of the busiest times of the year of bike- sharing business. Our firs page of story answers 3 main questions. First, there were total records of **2,344,224** million rides in a month of August. **65** % of riders were male, **25**% female and **10**% unknown. Lastly, we determined that 80% of riders were subscribed customers. 
+We picked the month of August for a good reason; August is one of the busiest times of the year of bike- sharing business. Our firs page of story answers 3 main questions. First, there were total records of **2,344,224** million rides in a month of August. **65** % of riders were male, **25**% female and **10**% unknown. Lastly, we determined that morethan 80% of riders were subscribed customers. 
 
 
 ![Overview.](https://github.com/kossakova/Bikesharing/blob/main/IMG/Overview.png)
