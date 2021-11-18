@@ -9,8 +9,8 @@ In this project we analyzed Citi Bike data from 2019 of New York Citi. The purpo
 - Tableau Public Citi Bike Story Page 
  https://public.tableau.com/app/profile/zarina.kossakova/viz/Citi_Bike__Story/CitiBikeStory
 
-- Datasource used for this project 
- https://s3.amazonaws.com/tripdata/index.html
+- Datasource used for this project    
+   https://s3.amazonaws.com/tripdata/index.html
 
 - Tableau Public 2021.3
 - Python 3.7.10
